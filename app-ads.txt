@@ -234,3 +234,6 @@ verve.com, 14561, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3169196794, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 yieldlab.net, 2172218, RESELLER
+
+# mintegral
+mintegral.com, 25805, DIRECT
