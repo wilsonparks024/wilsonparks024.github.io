@@ -1,5 +1,5 @@
 # facebook
-facebook.com, 169047470928633, RESELLER, c3e20eee3f780d68
+facebook.com, 169047470928633, DIRECT, c3e20eee3f780d68
 facebook.com, 727461841790497, RESELLER, c3e20eee3f780d68
 
 # google
