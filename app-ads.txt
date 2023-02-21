@@ -298,3 +298,6 @@ carbonatix.com, 164931029, RESELLER
 krushmedia.com, AJxF6R43a9M6CaTvK, RESELLER
 connekt.ai, 8271873578, RESELLER
 Beapup, 658874, RESELLER
+
+# google ad manager
+google.com, pub-7199960045983129, RESELLER, f08c47fec0942fa0
