@@ -299,5 +299,8 @@ krushmedia.com, AJxF6R43a9M6CaTvK, RESELLER
 connekt.ai, 8271873578, RESELLER
 Beapup, 658874, RESELLER
 
-# google ad manager
+# google ad manager woso
 google.com, pub-7199960045983129, RESELLER, f08c47fec0942fa0
+
+# yandex
+yandex.com, 34e8ea64c37a028349713e585c6ad65a, DIRECT
