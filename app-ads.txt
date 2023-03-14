@@ -6,6 +6,8 @@ facebook.com, 727461841790497, RESELLER, c3e20eee3f780d68
 google.com, pub-5431708412325729, DIRECT, f08c47fec0942fa0
 google.com, pub-1178285911314452, DIRECT, f08c47fec0942fa0
 google.com, pub-2291738773111716, DIRECT, f08c47fec0942fa0
+google.com, pub-3710497005998641, DIRECT, f08c47fec0942fa0
+google.com, pub-4145484984264649, DIRECT, f08c47fec0942fa0
 
 # fyber
 fyber.com, 214649, DIRECT 
